@@ -31,4 +31,4 @@ A comprehensive Python script that analyzes password strength and provides detai
 To check the strength of a password, run the password checker script:
 
 ```bash
-python password_checker.py
+python PasswordStrengthChecker.py
