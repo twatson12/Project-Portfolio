@@ -28,7 +28,7 @@ Installation
 
     Copy code
 
-    `git clone https://github.com/your_username/packet-analyzer.git`
+    `git clone https://github.com/twatson12/packet-analyzer.git`
 
 2.  **Navigate to the project directory**:
 
@@ -38,10 +38,6 @@ Installation
 
     `cd packet-analyzer`
 
-3.  **Requirements**:
-
-    -   Ensure you have Python 3 installed.
-    -   Run the script with root privileges to capture packets (required on most systems).
 
 Usage
 -----
