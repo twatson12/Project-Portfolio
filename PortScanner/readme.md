@@ -28,7 +28,7 @@ Installation
 
     Copy code
 
-    `git clone https://github.com/your_username/port-scanner.git`
+    `git clone https://github.com/twatson12/port-scanner.git`
 
 2.  Navigate to the project directory:
 
@@ -37,8 +37,7 @@ Installation
     Copy code
 
     `cd port-scanner`
-
-3.  Ensure you have Python 3 installed.
+    
 
 Usage
 -----
